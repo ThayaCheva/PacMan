@@ -1,0 +1,123 @@
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 18-8
+[Orion] Location: 17-9
+[Alien] Location: 17-9
+[Troll] Location: 17-9
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 16-6
+[Orion] Location: 16-9
+[Alien] Location: 16-9
+[Troll] Location: 16-9
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 18-6
+[Orion] Location: 15-9
+[Alien] Location: 15-9
+[Troll] Location: 15-9
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 18-5
+[Orion] Location: 15-8
+[Alien] Location: 15-8
+[Troll] Location: 15-8
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 17-5
+[Orion] Location: 15-7
+[Alien] Location: 14-7
+[Troll] Location: 15-7
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 18-4
+[Orion] Location: 14-7
+[Alien] Location: 13-7
+[Troll] Location: 16-7
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 17-5
+[Orion] Location: 13-7
+[Alien] Location: 12-7
+[Troll] Location: 16-6
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 18-5
+[Orion] Location: 12-7
+[Alien] Location: 11-7
+[Troll] Location: 16-5
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 18-4
+[Orion] Location: 11-7
+[Alien] Location: 10-7
+[Troll] Location: 17-5
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 17-5
+[Orion] Location: 10-7
+[Alien] Location: 9-7
+[Troll] Location: 18-5
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 18-6
+[Orion] Location: 9-7
+[Alien] Location: 8-7
+[Troll] Location: 18-6
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 17-5
+[Orion] Location: 8-7
+[Alien] Location: 7-7
+[Troll] Location: 18-7
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 18-5
+[Orion] Location: 7-7
+[Alien] Location: 6-6
+[Troll] Location: 18-8
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 18-6
+[Orion] Location: 6-7
+[Alien] Location: 6-5
+[Troll] Location: 18-9
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 18-7
+[Orion] Location: 6-8
+[Alien] Location: 5-5
+[Troll] Location: 17-9
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 18-8
+[Orion] Location: 6-9
+[Alien] Location: 4-5
+[Troll] Location: 16-9
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 18-9
+[Orion] Location: 7-9
+[Alien] Location: 3-5
+[TX5] Location: 17-9
+[Troll] Location: 15-9
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 16-7
+[Orion] Location: 8-9
+[Alien] Location: 3-4
+[TX5] Location: 16-9
+[Troll] Location: 15-8
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 16-9
+[Orion] Location: 9-9
+[Alien] Location: 3-3
+[TX5] Location: 15-9
+[Troll] Location: 15-7
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 15-8
+[Orion] Location: 10-9
+[Alien] Location: 4-2
+[TX5] Location: 15-8
+[Troll] Location: 14-7
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 15-9
+[Orion] Location: 11-9
+[Alien] Location: 3-1
+[TX5] Location: 15-7
+[Troll] Location: 13-7
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 13-9
+[Orion] Location: 12-9
+[Alien] Location: 2-1
+[TX5] Location: 14-7
+[Troll] Location: 13-8
+[PacMan] Location: 1-1. Score: 0. Pills: 0
+[Wizard] Location: 11-7
+[Orion] Location: 13-9
+[Alien] Location: 1-1
+[TX5] Location: 13-7
+[Troll] Location: 13-9
+GAME OVER
